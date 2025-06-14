@@ -1,1 +1,1 @@
-# forex-trading-analysis
+# forex-trading-projects
